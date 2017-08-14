@@ -1,0 +1,9 @@
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\CorelDRAW Reset.exe.config
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\CorelDRAW Reset.exe
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\CorelDRAW Reset.pdb
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\CorelDRAW Reset.csprojResolveAssemblyReference.cache
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\CorelDrawReset.Properties.Resources.resources
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\CorelDRAW Reset.csproj.GenerateResource.Cache
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\CorelDRAW Reset.exe
+C:\Users\Flavi\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\CorelDRAW Reset.pdb
